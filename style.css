@@ -18,9 +18,9 @@ nav{
     padding: 1em 1em;
 }
 
-.logo{
+/* .logo{
     color:var(--primary-color);
-}
+} */
 .nav-toggle{
     position: absolute;
     top:0.6em;
